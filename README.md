@@ -16,9 +16,8 @@ git clone https://github.com/123vivekr/Ideagram.git ideagram
 2. Create python virtual environment and install python dependencies
 ```
 cd ideagram
-virtualenv venv
-source venv/bin/activate  # run this command everytime before working on project
-pip install -r requirements/dev.txt
+source bin/activate  # run this command everytime before working on project
+pip install -r requirements.txt
 ```
 3. Install client dependencies
 ```
