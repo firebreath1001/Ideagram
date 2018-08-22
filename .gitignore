@@ -106,4 +106,10 @@ ENV/
 .mypy_cache/
 
 # Virtualenv files
+<<<<<<< HEAD
 server/*
+=======
+bin/
+lib64
+pyenv.cfg
+>>>>>>> 34d50c0... removed unnecessary files
